@@ -1,0 +1,9 @@
+# Le code utilise des modules standards de la librairie Python.
+# Aucune dépendance externe n'est strictement requise pour ce script.
+
+# Modules utilisés (inclus dans l'installation standard de Python):
+# tkinter
+# sqlite3
+# datetime
+# csv
+# os
